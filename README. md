@@ -1,0 +1,10 @@
+# Predict Audience Rating
+
+This project uses a dataset from Rotten Tomatoes to predict the audience rating of movies based on various features. The model uses a machine learning approach to train a model and predict audience ratings.
+
+## Steps to Run
+
+1. Clone the repository or download the project files.
+2. Navigate to the `notebooks/` folder.
+3. Open `audience_rating_model.ipynb` in a Jupyter notebook environment.
+4. Run the cells to load data, train the model, and evaluate its accuracy.
